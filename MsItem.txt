@@ -1,0 +1,12 @@
+GES32#YYR04#Yuriyuri#Rhodes Island#Knifes Out#Novels#Fragile#0.50#2
+GES32#YRH03#Yurihime#Takaoka#Excalibur#Weapon#Heavy#4.00#1
+GES32#DGA05#Digital Anomaly#Lungmen#Roblox Anomaly#Games#Fragile#0.50#2
+MJR25#YPD01#Yuripedia#Bekasi#Solo Leveling#Books#Fragile#0.50#2
+MJR25#YPD01#Yuripedia#Bekasi#Solo Leveling#Books#Fragile#0.50#2
+MJR25#DGA05#Digital Anomaly#Lungmen#Arknights#Games#Fragile#0.20#4
+MJR25#YRH03#Yurihime#Takaoka#Arknights 2#Games#Fragile#0.20#5
+GES32#DGA05#Digital Anomaly#Lungmen#Arknights#Games#Fragile#0.20#3
+MJR25#DGA05#Digital Anomaly#Lungmen#Fate/Stay Night#Visual Novel#Digital#0.00#0
+GES32#DGA05#Digital Anomaly#Lungmen#Holy Grail#Magic Weapon#Fragile#10.00#1
+GES32#DGA05#Digital Anomaly#Lungmen#Roblox Anomaly#Games#Fragile#0.20#4
+GES32#YSK02#Yurisekai#Pompom Nation#Solo Leveling#Novel#Visual Novel#0.50#10
